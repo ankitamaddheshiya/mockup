@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(39, 39, 123);
+    color: white;
+    font-weight: bold;
+    height:80px ;
+}
+#nav img{
+    
+    width: 20%;
+}
+#nav ul{
+    justify-content: space-between;
+    display: flex;
+    width: 40%;
+    list-style: none;
+    margin-top: 30px;
+
+}
